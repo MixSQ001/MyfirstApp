@@ -18,6 +18,10 @@ public class MyfirstApp {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Karin Nin-on Code:55024398");
+        
+        
+        System.out.println("Information Technology");
+        System.out.println("University of Phayao");
     }
     
 }
