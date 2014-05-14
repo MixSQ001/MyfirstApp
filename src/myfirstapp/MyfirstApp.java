@@ -21,7 +21,9 @@ public class MyfirstApp {
         
         
         System.out.println("Information Technology");
+        System.out.println("คณะเทคโนโลยีสารสนเทศและการสื่อสาร");
         System.out.println("University of Phayao");
+        
     }
     
 }
